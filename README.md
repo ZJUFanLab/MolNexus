@@ -19,6 +19,15 @@
 - Matplotlib
 - GSEApy
 
+## Quick installation
+
+```bash
+git clone https://github.com/ZJUFanLab/MolNexus.git
+cd MolNexus
+conda env create -f environment.yml
+conda activate molnexus
+```
+
 ## Usage
 
 ### BioNexKG Relationship Query
