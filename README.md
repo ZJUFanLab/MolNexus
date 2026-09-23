@@ -1,4 +1,4 @@
-# Knowledge graph-enhanced multimodal embedding of molecular relationships
+# Knowledge graph-enhanced prediction of biomedical molecular relationships with MolNexus
 
 ## Overview
 
@@ -19,7 +19,7 @@
 - Matplotlib
 - GSEApy
 
-## Quick installation
+## Quick Installation
 
 ```bash
 git clone https://github.com/ZJUFanLab/MolNexus.git
